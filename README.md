@@ -1,6 +1,9 @@
 # 2022-01-12-Introduction-to-BASH
 Repository for January 12, 2022 "Introduction to BASH" Workshop by Grace E. Seo
 
+Workshop guide (original and printer-friendly versions available) by Grace E. Seo (seog@myumanitoba.ca)
+
+Workshop dataset:
 fastq datasets were downloaded from: https://doi.org/10.5281/zenodo.3736457  
 Data citation: Raposa. (2020). Sample Fastq Files [Data set]. Zenodo. https://doi.org/10.5281/zenodo.3736457
 
