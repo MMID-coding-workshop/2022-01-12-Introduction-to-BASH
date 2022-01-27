@@ -3,8 +3,9 @@ Repository for January 12, 2022 "Introduction to BASH" Workshop by Grace E. Seo
 
 Workshop guide (original and printer-friendly versions available) by Grace E. Seo (seog@myumanitoba.ca)
 
+Workshop lecture (January 12, 2022) video is now available on YouTube at https://www.youtube.com/watch?v=_VUynJ_CBJo
 
-Introduction to BASH workshop (January 12, 2022) video is now available on YouTube for you to watch here: https://www.youtube.com/watch?v=_VUynJ_CBJo
+
 
 Based on the feedbacks received from participants, I also made a quick BASH supplemental video tutorials on the following topics which we couldn't cover in detail due to limited time.
 
